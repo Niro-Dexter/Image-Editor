@@ -248,7 +248,7 @@ async def cb_handler(client, query):
     elif query.data == "start_data":
 
         keyboard = InlineKeyboardMarkup([[InlineKeyboardButton("HELP", callback_data="help_data"), InlineKeyboardButton("ABOUT", callback_data="about_data"), ],
-                                         [InlineKeyboardButton("SOURCE CODE", url="https://github.com/TroJanzHEX/Image-Editor")]])
+                                         [InlineKeyboardButton("Developer ගැන", url="https://t.me/Zitron_Kenway")]])
 
         await query.message.edit_text(script.START_MSG.format(query.from_user.mention), reply_markup=keyboard, disable_web_page_preview=True)
 
