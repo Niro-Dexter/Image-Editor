@@ -1,16 +1,16 @@
 {
     "name": "Image-Editor-Bot",
-    "description": "A Bot that can Edit Images in various modes",
+    "description": "මම Image Editor Bot කෙනෙක් බොහෝ Edis වලට Support කරන",
     "logo": "https://telegra.ph/file/71aaa621508cd696ab538.jpg",
     "keywords": [
         "Image",
         "Editor",
         "Telegram Bot",
-        "TroJanzHEX"
+        "Project NFLK"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Image-Editor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "අපේ Channel එක": "https://t.me/ProjectNetflixLK",
+    "අපේ Group එක": "https://t.me/Netflixlkchat",
+    "Developer": "https://t.me/Zitron_Kenway",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
