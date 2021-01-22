@@ -2,23 +2,24 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-I'm a Image Editor Bot which Supports various modes
+මම තමයි Image Editor Bot.
+බොහෝමයක් photo modes වලට Support කරනවා මම
 
 For more click help....</b>"""
-    HELP_MSG = """Hai, Follow these Steps..
+    HELP_MSG = """Hi😊, මෙම පියවර අනුගමනය කරන්න 👇 ..
 
-<code>🌀 Send me any Image to Edit..</code>
+<code>🌀 ඔයාට Edit කරන්න අවශ්‍ය Image එක මට එවන්න..</code>
 
-<code>🌀 Select the Corresponding mode that you need</code>
+<code>🌀 ඔයාට Edit කරන්න අවශ්‍ය ක්‍රමය තෝරගන්න</code>
 
-<code>🌀 Your Edited Image will be Uploaded </code>
+<code>🌀 ඔයා Edit කරපු Image එක මම Upload කරන්නම් 😉 </code>
 
 
-© @TroJanzHEX"""
-    ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
+🔥 @Zitron_Kenway"""
+    ABOUT_MSG = """⭕️<b>Developer : ®Zitron Kenway</b>
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Developer :</b> <code>@Zitron_Kenway</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Source Code :</b> 👉 <a href='https://github.com/TroJanzHEX/Image-Editor'>Click Here</a>"""
+⭕️<b>Project NFLK :</b> 👉 <a href='https://t.me/ProjectNetflixLK'>මෙතන ඔබන්න</a>"""
