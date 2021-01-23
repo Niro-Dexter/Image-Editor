@@ -26,7 +26,7 @@ Use කරන්න තේරෙන්නෙ නැතිනම් Help Button �
 <code>🌀 ඔයා Image එක Edit කලාට පස්සෙ මම ඒක ඔයාට Upload කරන්නම් 😉 </code>
 
 
-🔥 @Zitron_Kenway"""
+🔥 @ProjectNetflixLK"""
     ABOUT_MSG = """⭕️<b>Developer : ®Zitron Kenway</b>
 
 ⭕️<b>Channel :</b> <code>@ProjectNetflixLK</code>
