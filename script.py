@@ -6,7 +6,7 @@ class script(object):
 
 මම තමයි NFLK Image Editor Bot.
 
-Official Channel :- ProjectNetflixLK
+Official Channel :- @ProjectNetflixLK
 
 **Simple Image Editing modes වලට Support කරනවා මම ✅**
 
