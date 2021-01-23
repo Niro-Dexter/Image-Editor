@@ -66,7 +66,7 @@ async def about(client, message):
                     ],
                     [
                         InlineKeyboardButton(
-                            "Developer ගැන", url="https:t.me/zitron_Kenway")
+                            "අපේ Group එක", url="https:t.me/Netflixlkchat")
                     ]
                 ]
             ),
