@@ -2,7 +2,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-මම තමයි Image Editor Bot.
+මම තමයි NFLK Image Editor Bot.
 බොහෝමයක් Image Editing modes වලට Support කරනවා මම ✅
 
 For more click help....</b>"""
