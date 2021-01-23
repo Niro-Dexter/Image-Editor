@@ -2,10 +2,20 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-මම තමයි NFLK Image Editor Bot.
-බොහෝමයක් Image Editing modes වලට Support කරනවා මම ✅
+ඔයාට කොහොමද? 
 
-For more click help....</b>"""
+මම තමයි NFLK Image Editor Bot.
+
+Official Channel :- ProjectNetflixLK
+
+**🔵 Simple Image Editing modes වලට Support කරනවා මම ✅**
+
+(මාව වැඩ නැතුව ගියොත් කලබල වෙන්නෙපා ඒ Heroku Free Dynos ඉවර වෙලා (Free Service එකක් නිසා)
+
+Pro Feature of me (Free) :- 🔴 Remove Background 
+                            🔴 Create Stickers
+
+Use කරන්න තේරෙන්නෙ නැතිනම් Help Button එක Click කරන්න ....</b>"""
     HELP_MSG = """Hi😊, මෙම පියවර අනුගමනය කරන්න 👇 ..
 
 <code>🌀 ඔයාට Edit කරන්න අවශ්‍ය Image එක මට එවන්න..</code>
@@ -22,4 +32,4 @@ For more click help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Project NFLK :</b> 👉 <a href='https://t.me/ProjectNetflixLK'>මෙතන ඔබන්න</a>"""
+⭕️<b>Project NFLK :</b> 👉 <a href='https://t.me/ProjectNetflixLK'>Join වෙන්න මෙතන ඔබන්න</a>"""
