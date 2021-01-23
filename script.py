@@ -6,15 +6,15 @@ class script(object):
 
 මම තමයි NFLK Image Editor Bot.
 
-Official Channel :- @ProjectNetflixLK
+ℹ️ Official Channel :- @ProjectNetflixLK
 
 **Simple Image Editing modes වලට Support කරනවා මම ✅**
 
 (මාව වැඩ නැතුව ගියොත් කලබල වෙන්නෙපා ඒ Heroku Free Dynos ඉවර වෙලා Free Service එකක් නිසා)
 
 Pro Feature of me (Free) :-
-     🔴 Remove Background 
-     🔴 Create Stickers
+     ▶️ Remove Background 
+     ▶️ Create Stickers
 
 Use කරන්න තේරෙන්නෙ නැතිනම් Help Button එක Click කරන්න👇 ....</b>"""
     HELP_MSG = """Hi😊, මෙම පියවර අනුගමනය කරන්න 👇 ..
